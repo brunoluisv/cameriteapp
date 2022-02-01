@@ -8,5 +8,4 @@ Video App com React Native (Expo)
 
 ## Available Commands
 
-- `yarn`
 - `yarn start`
